@@ -1,0 +1,22 @@
+body{
+	background-color: lightblue;
+  }
+  
+  h2 {
+	text-align: center;
+  }
+  
+  #birthday {
+	border-radius: 25px;
+	border: 2px solid black;
+	padding: 10px;
+	position: relative;
+	margin: 1vw auto;
+	width: 10%;
+	
+  }
+  
+  
+	  
+  
+  
